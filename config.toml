@@ -2,7 +2,7 @@ baseurl = "https://me.hamster.de/"
 languageCode = "de-de"
 title = "About HaMster"
 
-theme = "uno"
+theme = "hugo-uno"
 
 [Params]
   AuthorName = "Hans Meyer"
