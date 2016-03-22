@@ -1,3 +1,13 @@
 baseurl = "https://me.hamster.de/"
 languageCode = "de-de"
-title = "Alles über mich"
+title = "About HaMster"
+
+theme = "uno"
+
+[Params]
+  AuthorName = "Hans Meyer"
+  github = "HaMster21"
+  twitter = "HaMster33460"
+  email = "hans.meyer@mailbox.org"
+  description = "Nerd, Vater, Teetrinker"
+  cv = "/pages/cv"
